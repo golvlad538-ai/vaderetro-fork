@@ -1,0 +1,17 @@
+.classpath
+.project
+
+Client.launch
+Minecraft Client.iml
+
+/.idea/
+/.settings/
+minecraft.iml
+vaderetro.iml
+
+/bin/
+/BTW/
+/md5/
+/source/
+/output/
+/out/
